@@ -1,15 +1,27 @@
-Welcome to your new dbt project!
+# Module 4: Analytical Engineering Homework
 
-### Using the starter project
+# Quiz Questions
 
-Try running the following commands:
-- dbt run
-- dbt test
+Q1: `dbt run --select int_trips_unioned` builds which models? 
 
+A: int_trips_unioned only
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+ Q2: New value 6 appears in payment_type. What happens on dbt test?
+
+A: dbt will fail the test, returning a non-zero exit code
+
+Q3: Count of records in `fct_monthly_zone_revenue` model?
+
+A: 12,184
+
+Q4: Zone with highest revenue for Green taxis in 2020?
+
+A: East Harlem North
+
+Q5: Total trips for Green taxis in October 2019?
+
+A: 384,624
+
+Q6: Count of records in `stg_fhv_tripdata` (filter dispatching_base_num IS NULL)?
+
+A: 43,244,693
