@@ -8,3 +8,4 @@ This repo contains the homework solutions ofr the DE Zoomcamp Course
 - [Module 3: Data Warehouse](./03-data-warehouse-homework/)
 - [Module 4: Analytical Engineering](./04-analytical-engineering-homework/)
 - [Module 5: Data Platforms](./05-data-platforms-homework/)
+- [Workshop: DLT Pipeline](./dlt-taxi-pipeline-homework/)
