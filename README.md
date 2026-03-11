@@ -9,3 +9,4 @@ This repo contains the homework solutions ofr the DE Zoomcamp Course
 - [Module 4: Analytical Engineering](./04-analytical-engineering-homework/)
 - [Module 5: Data Platforms](./05-data-platforms-homework/)
 - [Workshop: DLT Pipeline](./dlt-taxi-pipeline-homework/)
+- [Module 6: Batching](./06-batching-homework/)
