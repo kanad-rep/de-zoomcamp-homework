@@ -10,3 +10,4 @@ This repo contains the homework solutions ofr the DE Zoomcamp Course
 - [Module 5: Data Platforms](./05-data-platforms-homework/)
 - [Workshop: DLT Pipeline](./dlt-taxi-pipeline-homework/)
 - [Module 6: Batching](./06-batching-homework/)
+- [Module 7: Streaming](./07-streaming-homework/)
